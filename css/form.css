@@ -14,7 +14,13 @@
     display: flex;
     flex-direction: column;
     gap: 10px;
-    border: #eaecf0 1px solid;
+    border: #eaecf0 2px solid;
+}
+.form-row:nth-of-type(even) {
+    border-top: none;
+}
+.form-row:nth-of-type(3) {
+    border-top: none;
 }
 .form-row:hover {
     border-left: #3e55fa solid 6px;
