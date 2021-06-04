@@ -7,7 +7,7 @@
 
 _29 group website project_
 
-This project is for educational porpuses only. Pull request are welcome, but priority for my real-life students! Thank you for your cooperation!
+This project is for educational porpuses only. Best viewed on 16:9 aspect ratio monitors, Full HD or higher resolution
 
 Site published at https://justas1988.github.io/front-end-testas/
 
