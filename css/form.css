@@ -16,12 +16,11 @@
     gap: 10px;
     border: #eaecf0 1px solid;
 }
+.form-row:hover {
+    border-left: #3e55fa solid 6px;
+}
 .form-row > input {
     border: 0;
-}
-input:focus {
-    border: 0;
-    border-left: #3e55fa 6px solid;
 }
 .form-row > label {
     padding-top: 5px;
