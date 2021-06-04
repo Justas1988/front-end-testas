@@ -59,3 +59,20 @@ input:focus {
     font-size: 20px;
 }
 
+.form-row-links {
+    display: flex;
+    flex-direction: row;
+    margin-top: 100px;
+    gap: 50px;
+    font-size: 17px;
+}
+.form-row-links > p {
+    color: #b7b9c0;
+    }
+.form-row-links > a {
+    text-transform: capitalize;
+    color: #3e55fa;
+    text-decoration: none;
+    font-weight: bold;
+
+}
