@@ -18,15 +18,22 @@ main {
 .left-column {
     width: 42.5%;
     float: left;
-    /* background-color: teal; */
+    padding-left: 100px;
+    padding-right: 80px;
+    /* background-color: blanchedalmond; */
 
 }
 .fcuksense {
+    font-size: 30px;
+    margin-top: 95px;    
+    margin-bottom: 85px;
     color: #576cf3;
     text-transform: capitalize;
 }
 .main-header {
-    color: black;
+    font-size: 35px;
+    line-height: 48px;
+    color: #44536d;
     text-transform: capitalize;
 }
 .right-column {
