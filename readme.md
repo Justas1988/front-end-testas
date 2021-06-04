@@ -2,13 +2,14 @@
 ![Security Status](https://img.shields.io/security-headers?label=Security&url=https%3A%2F%2Fgithub.com&style=flat-square)
 ![Gluten Status](https://img.shields.io/badge/Gluten-Free-green.svg)
 ![Eco Status](https://img.shields.io/badge/ECO-Friendly-green.svg)
-![Alco Status](https://img.shields.io/badge/contains-alcohol-green.svg)
+![Alco Status](https://img.shields.io/badge/Contains-Alcohol-green.svg)
 
 # front-end-testas
 
 _29 group website project_
 
-This project is for educational porpuses only. Best viewed on 16:9 aspect ratio monitors, Full HD or higher resolution
+This project is for educational porpuses only. Best viewed on 16:9 aspect ratio monitors, Full HD or higher resolution. Why copy when you can think yourself?
+Make mistakes and improve!
 
 Site published at https://justas1988.github.io/front-end-testas/
 
