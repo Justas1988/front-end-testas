@@ -16,6 +16,7 @@
     padding-right:  50px;
     cursor: pointer;
     border-radius: 5px;
+    box-shadow: 0 4px 14px 0 #0008;
 }
 .form-row-button > a {
     text-transform: capitalize;
@@ -30,5 +31,5 @@
     font-weight: bold;
     border-radius: 5px;
     cursor: pointer;
-
+    box-shadow: 0 4px 14px 0 #0008;
 }
