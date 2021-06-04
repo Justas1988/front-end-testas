@@ -24,6 +24,7 @@ input:focus {
     border-left: #3e55fa 6px solid;
 }
 .form-row > label {
+    padding-top: 5px;
     padding-left: 20px;
     padding-right: 20px;
 }
@@ -43,8 +44,7 @@ input:focus {
     display:flex;
     gap: 175px;
     flex-direction: row;
-    width: 100%;
-    margin-bottom: 50px;
+    width: 100%;    
 }
 .checkbox > input {
     vertical-align: middle;
@@ -62,7 +62,8 @@ input:focus {
 .form-row-links {
     display: flex;
     flex-direction: row;
-    margin-top: 100px;
+    margin-top: 80px;
+    margin-bottom: 20px;
     gap: 50px;
     font-size: 17px;
 }

@@ -9,7 +9,7 @@ _29 group website project_
 
 This project is for educational porpuses only. Pull request are welcome, but priority for my real-life students! Thank you for your cooperation!
 
-Site published at *****
+Site published at https://justas1988.github.io/front-end-testas/
 
 Design: [front-end-testas](https://cdn.discordapp.com/attachments/850245533838868480/850246623883034644/login_screen.png)
 

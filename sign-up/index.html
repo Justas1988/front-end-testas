@@ -5,9 +5,9 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Fcuksense Sign In</title>
-    <link rel="stylesheet" href="./css/main.css">
-    <link rel="stylesheet" href="./css/form.css">
-    <link rel="stylesheet" href="./css/button.css">
+    <link rel="stylesheet" href="../css/main.css">
+    <link rel="stylesheet" href="../css/form.css">
+    <link rel="stylesheet" href="../css/button.css">
 </head>
 <body>
     <main>
@@ -17,6 +17,10 @@
             <form class="form">
                 <p class="form-p">Welcome Back, Please login to your account</p>
                 <div class="form-row">
+                    <label for="username">Username</label>
+                    <input id="username" placeholder="here enter your username" type="email" required>
+                </div>
+                <div class="form-row">
                     <label for="email">Email address</label>
                     <input id="email" placeholder="here enter your email" type="email" required>
                 </div>
@@ -24,16 +28,20 @@
                     <label for="pass">Password</label>
                     <input id="pass" placeholder="here enter your password" type="password" required>
                 </div>
-                <div class="form-row-bottom">
+                <div class="form-row">
+                    <label for="pass">Repeat password</label>
+                    <input id="pass" placeholder="reapeat you password" type="password" required>
+                </div>
+                <!-- <div class="form-row-bottom">
                     <div class="checkbox">
                         <input type="checkbox" id="remember" name="remember">
                         <label for="remember">Remember me</label>
                     </div>
-                    <a href="./forget-password/">Forget Password?</a>
-                </div>
+                    <a href="../forget-password/">Forget Password?</a>
+                </div> -->
                 <div class="form-row-button">
-                    <button type="submit">Login</button>
-                    <a href="./sign-up/">sign up</a>
+                    <button type="submit">Sign Up</button>
+                    <a href="../">Sign In</a>
                 </div>
                 <div class="form-row-links">
                     <p>Or login with</p>
