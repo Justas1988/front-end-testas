@@ -14,8 +14,48 @@
     display: flex;
     flex-direction: column;
     gap: 10px;
-    border: #b7b9c0 1px solid;
+    border: #eaecf0 1px solid;
 }
 .form-row > input {
     border: 0;
 }
+input:focus {
+    border: 0;
+    border-left: #3e55fa 6px solid;
+}
+.form-row > label {
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.form-row > input {
+    line-height: 40px;
+    font-size: 20px;
+    color: #3e55fa;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+::placeholder {
+    color: #3e55fa;
+    font-weight: bold;
+}
+.form-row-bottom {
+    margin-top: 30px;
+    display:flex;
+    gap: 175px;
+    flex-direction: row;
+    width: 100%;
+    margin-bottom: 50px;
+}
+.checkbox > input {
+    vertical-align: middle;
+}
+.checkbox > label {
+    color: #b7b9c0;
+    font-size: 20px;
+}
+.form-row-bottom > a {
+    text-decoration: none;
+    color: #b7b9c0;
+    font-size: 20px;
+}
+
