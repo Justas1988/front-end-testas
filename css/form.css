@@ -13,7 +13,7 @@
 .form-row {
     display: flex;
     flex-direction: column;
-    gap: 10px;
+    gap: 5px;
     border: #eaecf0 2px solid;
 }
 .form-row:nth-of-type(even) {
@@ -32,9 +32,10 @@
     padding-top: 5px;
     padding-left: 20px;
     padding-right: 20px;
+    font-size: 25px;
 }
 .form-row > input {
-    line-height: 40px;
+    line-height: 30px;
     font-size: 20px;
     color: #3e55fa;
     padding-left: 20px;
