@@ -1,0 +1,21 @@
+.form {
+    width: 100%;
+
+}
+.form-p {
+    padding-top: 20px;
+    color: #b7b9c0;
+    font-size: 21px;
+}
+.form > .form-row:first-of-type {
+    margin-top: 45px;
+}
+.form-row {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    border: #b7b9c0 1px solid;
+}
+.form-row > input {
+    border: 0;
+}
