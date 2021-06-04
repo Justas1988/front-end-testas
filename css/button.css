@@ -4,7 +4,8 @@
     gap: 10px;
     margin-top: 50px;
 }
-.form-row-button > button {
+.form-row-button > button, 
+.form-row-button > a { 
     background-color: #3e55fe;
     color: white;
     border: none;
@@ -17,19 +18,13 @@
     cursor: pointer;
     border-radius: 5px;
     box-shadow: 0 4px 14px 0 #0008;
-}
-.form-row-button > a {
     text-transform: capitalize;
     text-decoration: none;
+}
+.form-row-button > a {
+    background-color: white;
     color: #3e55fe;
-    padding-top: 15px;
-    font-size: 20px;
-    padding-bottom: 15px;
     padding-left: 42px;
     padding-right:  42px;
     border: #3e55fe 1px solid;
-    font-weight: bold;
-    border-radius: 5px;
-    cursor: pointer;
-    box-shadow: 0 4px 14px 0 #0008;
 }
