@@ -42,9 +42,10 @@ input:focus {
 .form-row-bottom {
     margin-top: 30px;
     display:flex;
-    gap: 175px;
+    /* gap: 175px; */
     flex-direction: row;
-    width: 100%;    
+    width: 100%; 
+    justify-content: space-between;  
 }
 .checkbox > input {
     vertical-align: middle;
